@@ -1,10 +1,21 @@
-# Feasta - Restaurant webSite
+# Feasta – Restaurant Website (Frontend)
 
-Feasta is a modern website designed for a restaurant that allows customers to place orders both online
-and offline. The site includes various sections such as Home, Main, Menu, Contact, About, Chefs,
-Services, Book Table, Single Chefs, All Recipes, Recipe Details, Check Out, and Flag Palestine.
+A public-facing restaurant website built with React to allow customers to browse the menu and place orders.
 
-# Summary as an example
+## Features
+- Public restaurant website
+- Online menu browsing
+- Table booking interface
+- Checkout flow (UI only)
+
+## Tech Stack
+- React
+- JavaScript
+- HTML / CSS
+
+## Notes
+- This project represents the public frontend only.
+- Backend APIs and admin dashboard are planned for future implementation.
 
 ## Getting Started
 
